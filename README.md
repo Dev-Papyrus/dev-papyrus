@@ -1,2 +1,2 @@
-***Hi , my name is Papyrus.
-**🔭 I’m currently working on Aero MC 
+Hi , my name is Papyrus.\n
+🔭 I’m currently working on Aero MC 
